@@ -1,0 +1,21 @@
+.navbar {
+  background-color: teal;
+}
+
+h3 {
+  color: teal;
+}
+
+h5 {
+  color: teal;
+  text-align: center;
+}
+
+img {
+  float: left;
+}
+
+a img {
+  float: none;
+  
+ }
