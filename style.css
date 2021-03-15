@@ -11,11 +11,17 @@ h5 {
   text-align: center;
 }
 
-img {
+.img-left {
   float: left;
 }
 
-a img {
-  float: none;
-  
+.dropdown-item-active {
+   background-color: #00cdcd;
  }
+/* 88d8c0 */
+ 
+
+.img-active {
+  border: 2px solid teal;
+ }
+
